@@ -10,6 +10,14 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #333;
   color: white;
+  padding: 15px;
+  max-width: 1152px;
+  margin: auto;
+  height: 120px;
+}
+
+header img {
+  width: 150px;
+  height: 100px;
 }
