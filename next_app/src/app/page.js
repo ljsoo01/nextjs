@@ -20,6 +20,7 @@ import Header from "@/components/header/header";
 export default function Home() {
   return (
     <div>
+      <Header />
       <Link href="/about">어바웃페이지로 이동</Link>
       <br />
       <Link href="/blog">블로그페이지로 이동</Link>

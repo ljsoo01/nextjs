@@ -1,5 +1,5 @@
-/* */
-/* */
+/* layout.js에 연결된 스타일시트 */
+/* layout,js가 모든 페이지에 영향을 미치기 때문에 globals.css로 모든 곳에 적용됨 */
 * {
   box-sizing: border-box;
   margin: 0;
